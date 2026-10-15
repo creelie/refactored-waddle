@@ -1,0 +1,46 @@
+{
+  "title": "No lattice tiling of Z^35 or Z^805 by Lee balls of radius three: paper, Lean 4 formalization and verification code",
+  "description": "<p>We prove that there is no lattice tiling of Z^35 or of Z^805 by Lee balls of radius three. A. Xiao and Y. Zhou (arXiv:2610.19775, Theorem 5.1) decided the lattice Golomb-Welch conjecture for every pair (n, r) with n &gt;= 3, r &gt;= 2 and fewer than 2^30 points in the ball, except (35, 3) and (805, 3); with their result, Z^n has no lattice tiling by the Lee ball B^n(r) for any such pair. Tilings that are not lattice tilings are not covered.</p><p><code>preprintGolombWelchRadiusThree/</code> holds the paper as a PDF; <code>paper/</code> holds the LaTeX source (amsart) with four schematic figures; <code>dist/</code> holds the PDF, the LaTeX source zip and the arXiv tarball; <code>MasterGolombWelchRadiusThree_masterzipfinal2.zip</code> holds every file of the repository. <code>lean/</code> is a Lean 4 and Mathlib project that proves the two theorems <code>GolombWelch.golomb_welch_35</code> and <code>GolombWelch.golomb_welch_805</code> together with every step they rest on: the reduction of a lattice tiling to a perfect code in a finite abelian group, the ball identity in a commutative ring, the vanishing of power sums modulo a prime, the pair counts, the constant term modulo 29^2, the joint projection to Z/71 x Z/29 through dual numbers over a group ring, and two circulant systems over F_71. Both theorems depend only on the axioms propext, Classical.choice and Quot.sound. <code>checks/</code> contains independent checks of the arithmetic in C, C++, Julia and Python. <code>scripts/run_all.sh</code> builds the Lean project, checks the axioms and runs the checks.</p>",
+  "upload_type": "software",
+  "license": "mit",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Bhattacharjee, Deep",
+      "orcid": "0000-0003-0466-750X",
+      "affiliation": "Formerly, Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, Odisha 751030, India"
+    },
+    {
+      "name": "Bhattacharya, Ushashi",
+      "orcid": "0009-0002-2254-3914",
+      "affiliation": "Formerly, National Taiwan University, Taipei 106319, Taiwan"
+    }
+  ],
+  "keywords": [
+    "Golomb-Welch conjecture",
+    "Lee metric",
+    "perfect code",
+    "lattice tiling",
+    "group ring",
+    "Lean 4",
+    "52C22",
+    "05B45",
+    "94B25",
+    "05C25"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "arXiv:2610.19775",
+      "relation": "references",
+      "scheme": "arxiv"
+    },
+    {
+      "identifier": "10.1137/0118025",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ],
+  "language": "eng",
+  "version": "1.0.0",
+  "notes": "Corresponding author: Deep Bhattacharjee, itsdeep@live.com (primary), d.bhattacharjee@erl-forschung.de. Ushashi Bhattacharya: rai.bhattacharya.in@gmail.com."
+}

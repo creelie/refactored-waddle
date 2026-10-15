@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "No lattice tiling of Z^35 or Z^805 by Lee balls of radius three"
+type: software
+authors:
+  - family-names: Bhattacharjee
+    given-names: Deep
+    orcid: "https://orcid.org/0000-0003-0466-750X"
+    affiliation: "Formerly, Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, Odisha 751030, India"
+    email: itsdeep@live.com
+  - family-names: Bhattacharya
+    given-names: Ushashi
+    orcid: "https://orcid.org/0009-0002-2254-3914"
+    affiliation: "Formerly, National Taiwan University, Taipei 106319, Taiwan"
+    email: rai.bhattacharya.in@gmail.com
+version: 1.0.0
+date-released: 2026-10-15
+license: MIT
+repository-code: "https://github.com/creelie/refactored-waddle"
+keywords:
+  - Golomb-Welch conjecture
+  - Lee metric
+  - perfect code
+  - lattice tiling
+  - group ring
+  - Lean 4
+abstract: >-
+  We prove that there is no lattice tiling of Z^35 or of Z^805 by Lee balls of
+  radius three. These were the only cases left open by Xiao and Zhou among the
+  Lee balls of dimension at least three and radius at least two with fewer
+  than 2^30 points, so the lattice Golomb-Welch conjecture holds for all of
+  them. Both theorems are checked in the Lean 4 kernel.
+references:
+  - type: article
+    title: "On the lattice tilings by Lee balls: Q-polynomials, group-ring equations, and a decision algorithm"
+    authors:
+      - family-names: Xiao
+        given-names: A.
+      - family-names: Zhou
+        given-names: Y.
+    year: 2026
+    url: "https://arxiv.org/abs/2610.19775"
+    notes: "arXiv:2610.19775v1, Theorem 5.1 and Examples 5.13, 5.14"
+  - type: article
+    title: "Perfect codes in the Lee metric and the packing of polyominoes"
+    authors:
+      - family-names: Golomb
+        given-names: S. W.
+      - family-names: Welch
+        given-names: L. R.
+    year: 1970
+    doi: "10.1137/0118025"
