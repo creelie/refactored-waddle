@@ -1,0 +1,16 @@
+name = "GolombWelch"
+defaultTargets = ["GolombWelch", "Axioms"]
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4"
+rev = "v4.34.1"
+
+[[lean_lib]]
+name = "GolombWelch"
+roots = ["GolombWelch"]
+globs = ["GolombWelch", "GolombWelch.+"]
+leanOptions = { autoImplicit = false }
+
+[[lean_lib]]
+name = "Axioms"
