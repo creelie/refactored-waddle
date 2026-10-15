@@ -6,8 +6,8 @@ itsdeep@live.com, d.bhattacharjee@erl-forschung.de) and Ushashi Bhattacharya
 
 The paper: [`preprintGolombWelchRadiusThree/GolombWelchRadiusThree.pdf`](preprintGolombWelchRadiusThree/GolombWelchRadiusThree.pdf).
 Everything in one file: [`MasterGolombWelchRadiusThree_masterzipfinal2.zip`](https://github.com/creelie/refactored-waddle/raw/main/MasterGolombWelchRadiusThree_masterzipfinal2.zip).
-Lean formalization and programs on Zenodo: the DOI is added here once the
-release is archived.
+Lean formalization and programs on Zenodo: release v1.0.0, doi:[10.5281/zenodo.23398805](https://doi.org/10.5281/zenodo.23398805);
+all versions, doi:[10.5281/zenodo.23398804](https://doi.org/10.5281/zenodo.23398804).
 
 For n ≥ 1 and r ≥ 0 the Lee ball of radius r is
 B^n(r) = {a ∈ ℤ^n : |a_1| + … + |a_n| ≤ r}. Golomb and Welch (1970) conjectured

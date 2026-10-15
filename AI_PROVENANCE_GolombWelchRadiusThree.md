@@ -4,7 +4,7 @@ Authors: Deep Bhattacharjee (corresponding author, ORCID 0000-0003-0466-750X)
 and Ushashi Bhattacharya (ORCID 0009-0002-2254-3914).
 
 - Paper: https://github.com/creelie/refactored-waddle/blob/main/preprintGolombWelchRadiusThree/GolombWelchRadiusThree.pdf
-- Lean formalisation and code: Zenodo (the DOI is recorded in the repository once the release is archived)
+- Lean formalisation and code: Zenodo, release v1.0.0, https://doi.org/10.5281/zenodo.23398805 (all versions: https://doi.org/10.5281/zenodo.23398804)
 - Repository: https://github.com/creelie/refactored-waddle
 
 ## Result

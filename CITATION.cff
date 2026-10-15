@@ -14,6 +14,14 @@ authors:
     affiliation: "Formerly, National Taiwan University, Taipei 106319, Taiwan"
     email: rai.bhattacharya.in@gmail.com
 version: 1.0.0
+doi: "10.5281/zenodo.23398805"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23398805"
+    description: "Zenodo, release v1.0.0"
+  - type: doi
+    value: "10.5281/zenodo.23398804"
+    description: "Zenodo, all versions"
 date-released: 2026-10-15
 license: MIT
 repository-code: "https://github.com/creelie/refactored-waddle"
