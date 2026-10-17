@@ -59,6 +59,16 @@ general. It settles two cases of the lattice form; tilings that are not
 lattice tilings are not covered, since 59711 and 696845031 are not prime. The
 corollary for all balls with fewer than 2^30 points uses Theorem 5.1 of Xiao
 and Zhou, which is not formalised in Lean. The authors checked on 15 October
-2026 that the two cases appear as open in version 1 of the preprint of Xiao
-and Zhou (14 October 2026), and found no other treatment of them on arXiv, on
-GitHub or on the web.
+2026, and again on 17 October 2026, that the two cases appear as open in
+version 1 of the preprint of Xiao and Zhou (14 October 2026), which is still
+its only version, and found no other treatment of them on arXiv, on GitHub or
+on the web.
+
+## Text and references
+
+The paper is written in one analytical flow. Its bibliography contains, besides
+the works on Lee codes and tilings that it builds on, three self-citations of
+the authors placed where they bear on the text (the lattice packing problem
+for the Euclidean ball in dimensions four and seven, and the word metric of
+Cayley graphs); every entry was checked against its Crossref record or the
+arXiv listing, and none comes from TechRxiv, Qeios, Authorea or EasyChair.
