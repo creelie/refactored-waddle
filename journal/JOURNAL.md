@@ -36,11 +36,14 @@ MSC 2020: primary 52C22; secondary 05B45, 94B25, 05C25.
   (`thebibliography`), so no `.bib` or `.bbl` file is needed.
   `dist/GolombWelchRadiusThree_final2-tex.zip` and the arXiv tarball contain
   this file and the figures as PNG.
-- Declarations at the end: "Declaration of generative AI and AI-assisted
-  technologies in the writing process", "Competing interests: None",
-  "Funding: None" and "Data availability" (who computed what, the Zenodo DOI
-  of the Lean formalization and the link to the PDF in
-  `preprintGolombWelchRadiusThree/`).
+- Declarations at the end: "Data and code availability" (the Zenodo DOI of
+  the LaTeX source, the Lean formalisation and the programs, the link to the
+  PDF in `preprintGolombWelchRadiusThree/`, and the statement that Deep
+  Bhattacharjee carried out the computations and verifications and that the
+  proofs and text were drafted with AI assistance from Claude, Anthropic, both
+  authors approving the final version) and "Ethical declarations" (funding
+  none, competing interests none). There is no separate AI declaration
+  section; add one only if the journal's submission system asks for it.
 
 ## Policy on AI assistance
 

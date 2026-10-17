@@ -1,8 +1,11 @@
 # No lattice tiling of ℤ^35 or ℤ^805 by Lee balls of radius three
 
-Authors: Deep Bhattacharjee (corresponding author; ORCID 0000-0003-0466-750X;
-itsdeep@live.com, d.bhattacharjee@erl-forschung.de) and Ushashi Bhattacharya
-(ORCID 0009-0002-2254-3914; rai.bhattacharya.in@gmail.com).
+Authors: Deep Bhattacharjee (corresponding author; formerly, Electro-Gravitational
+Space Propulsion Laboratory (EGSPL), Bhubaneswar, Odisha 751030, India, and formerly,
+University of Calcutta, Senate House, 87/1 College Street, Kolkata 700073, West Bengal,
+India; ORCID 0000-0003-0466-750X; itsdeep@live.com, d.bhattacharjee@erl-forschung.de)
+and Ushashi Bhattacharya (formerly, National Taiwan University, Taipei 106319, Taiwan;
+ORCID 0009-0002-2254-3914; rai.bhattacharya.in@gmail.com).
 
 The paper: [`preprintGolombWelchRadiusThree/GolombWelchRadiusThree.pdf`](preprintGolombWelchRadiusThree/GolombWelchRadiusThree.pdf).
 Everything in one file: [`MasterGolombWelchRadiusThree_masterzipfinal2.zip`](https://github.com/creelie/refactored-waddle/raw/main/MasterGolombWelchRadiusThree_masterzipfinal2.zip).
