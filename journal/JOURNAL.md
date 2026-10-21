@@ -36,8 +36,7 @@ MSC 2020: primary 52C22; secondary 05B45, 94B25, 05C25.
   (`thebibliography`), so no `.bib` or `.bbl` file is needed.
   `dist/GolombWelchRadiusThree_final2-tex.zip` and the arXiv tarball contain
   this file and the figures as PNG.
-- Declarations at the end: "Data and code availability" (the Zenodo DOI of
-  the LaTeX source, the Lean formalisation and the programs, the link to the
+- Declarations at the end: "Data and code availability" (the GitHub release v1.1.0 with the LaTeX source, the Lean formalisation and the programs, the link to the
   PDF in `preprintGolombWelchRadiusThree/`, and the statement that Deep
   Bhattacharjee carried out the computations and verifications and that the
   proofs and text were drafted with AI assistance from Claude, Anthropic, both
@@ -58,3 +57,5 @@ MSC 2020: primary 52C22; secondary 05B45, 94B25, 05C25.
   submission form has a field for AI provenance, upload that file.
 - Every step of Sections 2 to 6 and both cases of the main theorem are checked
   by the Lean 4 kernel (Section 7 of the paper).
+- Fee: none on the subscription route; optional open access carries a charge and is not needed.
+- The journal version is in `paper/paper1/` (PDF) and `paper/paper2/` (LaTeX source zip), the same files as in `dist/`.

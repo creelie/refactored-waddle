@@ -18,6 +18,8 @@ Here |B^35(3)| = 59711 = 29²·71 and |B^805(3)| = 696845031 = 3·29²·179·154
 
 Lean 4 with Mathlib proves both theorems (`GolombWelch.golomb_welch_35`, `GolombWelch.golomb_welch_805`) from the definition of a lattice tiling, with every step of Sections 2 to 6; they depend only on the axioms propext, Classical.choice and Quot.sound, with no `sorry`, `native_decide` or `bv_decide`. Independent checks of the arithmetic in C, C++, Julia and Python.
 
+Version 1.1.0 is the journal version for Journal of Combinatorial Theory, Series A: it cites this release instead of a DOI and leaves out the footnotes unrelated to the proof. The paper is also in `paper/paper1/` and its LaTeX source zip in `paper/paper2/`.
+
 Files:
 - `GolombWelchRadiusThree_final2.pdf`: the paper
 - `GolombWelchRadiusThree_final2-tex.zip`: LaTeX source (`main.tex`, figures as PNG)
