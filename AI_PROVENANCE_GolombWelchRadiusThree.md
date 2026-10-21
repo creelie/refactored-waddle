@@ -4,7 +4,7 @@ Authors: Deep Bhattacharjee (corresponding author, ORCID 0000-0003-0466-750X)
 and Ushashi Bhattacharya (ORCID 0009-0002-2254-3914).
 
 - Paper: https://github.com/creelie/refactored-waddle/blob/main/preprintGolombWelchRadiusThree/GolombWelchRadiusThree.pdf
-- Lean formalisation and code: Zenodo, release v1.0.0, https://doi.org/10.5281/zenodo.23398805 (all versions: https://doi.org/10.5281/zenodo.23398804)
+- Lean formalisation and code: release v1.1.0, https://github.com/creelie/refactored-waddle/releases/tag/v1.1.0
 - Repository: https://github.com/creelie/refactored-waddle
 
 ## Result
@@ -66,9 +66,6 @@ on the web.
 
 ## Text and references
 
-The paper is written in one analytical flow. Its bibliography contains, besides
-the works on Lee codes and tilings that it builds on, three self-citations of
-the authors placed where they bear on the text (the lattice packing problem
-for the Euclidean ball in dimensions four and seven, and the word metric of
-Cayley graphs); every entry was checked against its Crossref record or the
+The paper is written in one analytical flow. Its bibliography contains the works on Lee codes and tilings that it builds
+on; every entry was checked against its Crossref record or the
 arXiv listing, and none comes from TechRxiv, Qeios, Authorea or EasyChair.
